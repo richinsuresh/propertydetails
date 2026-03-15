@@ -33,7 +33,7 @@ export default function ShowroomDashboard() {
     <main className="min-h-screen bg-white text-black font-sans selection:bg-black selection:text-white">
       <nav className="border-b-4 border-black p-6 flex justify-between items-center sticky top-0 bg-white z-50">
         <div>
-          <h1 className="text-2xl font-black tracking-tighter">JNG INNOVATOR</h1>
+          <h1 className="text-2xl font-black tracking-tighter">Property Log</h1>
           <p className="text-[10px] font-black uppercase tracking-[0.2em] mt-1">Asset Control Center</p>
         </div>
         <Link href="/admin/add" className="bg-black text-white px-8 py-3 text-xs font-black uppercase tracking-widest hover:bg-blue-600 transition-all active:scale-95 shadow-[8px_8px_0px_rgba(0,0,0,0.1)]">
